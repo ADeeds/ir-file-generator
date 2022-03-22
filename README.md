@@ -1,6 +1,6 @@
 # IR File Generator
 
-This webpage helps build files describing infrared remotes. The generated files are compatible with the [Flipper Zero](https://flipperzero.one/) "multi-tool for geeks". This is not an officially supported Google product.
+This webpage helps build files describing infrared remotes. The generated files are compatible with the [Flipper Zero](https://flipperzero.one/)'s IR transmitter. This is not an officially supported Google product.
 
 ## Running it
 
